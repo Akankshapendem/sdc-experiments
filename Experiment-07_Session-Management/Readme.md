@@ -62,5 +62,4 @@ CREATE TABLE products (
   price DECIMAL(10,2)
 );
 
-LICENSE
-This project is licensed under the MIT License.
+
