@@ -1,51 +1,17 @@
-Program 1 - Responsive Shopping Cart Web Application 
+Shopping cart application where users can browse a catalog, add items to the cart, view their selected items, and check the total price. It also includes a logout option for managing user sessions.
 
+Extensions Used:
+HTML (.html) – Defines the webpage structure
+CSS (.css) – Linked stylesheet () for formatting and layout
+JavaScript (.js) – External script () to manage cart functionality.
+Hyperlinks (.html) – Links to other pages:
+ -Catalog (catalog.html) – Presumably displays available products.
+ -Cart (cart.html) – Shows selected items.
+ -Login (login.html) – Manages user authentication.
+Meta Tags – Ensures proper character encoding and responsive behavior.
 
+Possible Problems Faced:
+-The cart system depends on a proper structure for storing and retrieving items. Without a database or a local storage mechanism, the cart might not persist across sessions.
+- If users navigate the site without logging in, it may lead to security concerns.
+-If  isn’t properly fetching or storing cart items, the display () and total price () may not update correctly.
 
-AIM
-To create a responsive shopping cart web application using CSS3, Flexbox, and Grid for layout design.
-
-DESCRIPTION
-This application allows users to register, log in, browse a product catalog, add items to the shopping cart, and view the cart contents. It utilizes CSS3 features such as Flexbox and Grid for responsive layouts and ensures that the application is mobile-friendly and adjusts seamlessly to different screen sizes.
-
-Project Structure
-
-ShoppingCartApp/
-│── public/
-│ │── css/
-│ │ ├── utils.css # Styles for the navigation bar
-│ │ ├── index.css # Styles for catalog items
-│ │ ├── cart.css # Styles for the shopping cart page
-│ │ ├── login.css # Styles for the login page
-│ │ ├── register.css # Styles for the registration page
-│ │── images/ # Folder for storing images
-│ │── js/
-│ │ └── script.js # Main JavaScript file
-│ │── html/
-│ │ ├── index.html # Main HTML file
-│ │ ├── cart.html # Shopping cart page
-│ │ ├── login.html # Login page
-│ │ ├── register.html # Registration page
-│── server.js # Node.js Express server
-│── package.json # Project dependencies and scripts
-│── README.md # Project documentation
-
-Installation & Setup
-
-Prerequisites
-•Install Node.js and npm
-
-Steps to Run the Project
-1.Clone the repository:
-2.git clone https://github.com/your-repo/shopping-cart.git
-3.cd shopping-cart
-4.Install dependencies:
-5.npm install
-6.Run the server:
-7.node server.js
-8.Open the browser and visit:
-9.http://localhost:3000
-
-License
-This project is licensed under the MIT License.
-Developed by [M Swayam Prakash]
