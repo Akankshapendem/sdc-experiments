@@ -93,8 +93,4 @@ java -cp ".;bin;lib/mysql-connector-j-9.3.0.jar" Main
 4. Delete Product
 5. Exit
 
-Contributing
-Feel free to fork this repository and suggest improvements via pull requests. All contributions are welcome!
 
-License
-This project is open-source and available under the MIT License
