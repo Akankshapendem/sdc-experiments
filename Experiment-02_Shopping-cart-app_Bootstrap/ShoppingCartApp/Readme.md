@@ -27,13 +27,3 @@ Setup Instructions
 4.cd ShoppingCartApp/public/html
 5.Open paybycreditcard.html in your browser.
 
-How to Use
-
--Enter the cardholder's name, card number, expiration date, and CVV.
--Click the Pay Now button to proceed with the payment.
-Bootstrap Integration
-The Bootstrap framework is included via CDN in the <head> section of paybycreditcard.html:
-<link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet">
-
-License
-This project is open-source and available under the MIT License.
