@@ -42,10 +42,3 @@ Dependencies
 •Chart.js (CDN or local installation)
 •OpenWeatherMap API key
 
-License
-This project is licensed under the MIT License.
-
-Author
-•M Swayam Prakash
-•GitHub: Your GitHub Profile
-Feel free to contribute or suggest improvements!
