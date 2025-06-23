@@ -15,3 +15,5 @@ Possible Problems Faced:
 - If users navigate the site without logging in, it may lead to security concerns.
 -If  isn’t properly fetching or storing cart items, the display () and total price () may not update correctly.
 
+
+![Screenshot (69)](https://github.com/user-attachments/assets/766b3533-846c-49df-b0e2-e394bf0c2403)
