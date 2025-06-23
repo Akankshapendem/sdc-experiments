@@ -16,4 +16,4 @@ Possible Problems Faced:
 -If  isn’t properly fetching or storing cart items, the display () and total price () may not update correctly.
 
 
-![Screenshot (69)](https://github.com/user-attachments/assets/766b3533-846c-49df-b0e2-e394bf0c2403)
+![Screenshot (66)](https://github.com/user-attachments/assets/2379aa5c-9177-410c-b197-a5d9e32d583c)
