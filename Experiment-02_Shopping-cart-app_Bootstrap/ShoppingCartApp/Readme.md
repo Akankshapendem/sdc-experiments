@@ -26,4 +26,6 @@ Setup Instructions
 3.Navigate to the project folder:
 4.cd ShoppingCartApp/public/html
 5.Open paybycreditcard.html in your browser.
+![Screenshot (69)](https://github.com/user-attachments/assets/51e52d16-9ed4-490b-adca-8c0a4bd5e5a5)
+
 
