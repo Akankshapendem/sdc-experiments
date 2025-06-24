@@ -59,7 +59,6 @@ python manage.py runserver
 7.Open the app in your browser
 Visit:
 http://127.0.0.1:8000/
+![Screenshot (78)](https://github.com/user-attachments/assets/f4d535ff-1c25-437e-bfa3-1134a8b40ae0)
 
- 
-LICENSE
-This project is licensed under the MIT License.
+
