@@ -102,6 +102,5 @@ SAMPLE OUTPUT
     "course": "Mathematics"
   }
 ]
+![Screenshot (81)](https://github.com/user-attachments/assets/f9720e53-f434-4880-838e-a47412ab76d1)
 
-LICENSE
-This project is licensed under the MIT License.
