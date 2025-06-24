@@ -61,5 +61,7 @@ CREATE TABLE products (
   price DECIMAL(10,2)
 );
 
+![Screenshot (83)](https://github.com/user-attachments/assets/4b6af132-50a2-489b-a724-ef77e71a03ca)
+
 
 
