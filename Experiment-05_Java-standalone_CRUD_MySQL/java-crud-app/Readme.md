@@ -92,5 +92,8 @@ java -cp ".;bin;lib/mysql-connector-j-9.3.0.jar" Main
 3. Update Product
 4. Delete Product
 5. Exit
+6. ![Screenshot (76)](https://github.com/user-attachments/assets/e9440581-3dfd-40f5-8e02-20f5fe62b1b3)
+
+   
 
 
