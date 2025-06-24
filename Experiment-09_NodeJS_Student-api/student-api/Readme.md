@@ -68,5 +68,5 @@ SAMPLE OUTPUT
 ]
 
 
-LICENSE
-This project is licensed under the MIT License.
+![Screenshot (80)](https://github.com/user-attachments/assets/b10d8090-0e6f-4046-8bdd-11c435be7444)
+
