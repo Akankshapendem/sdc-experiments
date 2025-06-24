@@ -41,4 +41,7 @@ API Configuration
 Dependencies
 •Chart.js (CDN or local installation)
 •OpenWeatherMap API key
+![Screenshot (74)](https://github.com/user-attachments/assets/9b35118d-d5e5-43af-aef6-83b58e07680d)
+
+
 
